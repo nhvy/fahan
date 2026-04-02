@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <radialGradient id="r" cx="70%" cy="15%" r="75%">
+      <stop offset="0" stop-color="#86efac" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#0b1220" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="#0b1220"/>
+  <rect width="1600" height="900" fill="url(#r)"/>
+  <path d="M0,720 C220,650 420,780 640,710 C860,640 920,520 1120,560 C1320,600 1440,720 1600,680 L1600,900 L0,900 Z" fill="url(#g)" opacity=".78"/>
+  <g fill="#eaf0ff" opacity=".92" font-family="Segoe UI, Arial, sans-serif">
+    <text x="90" y="160" font-size="48" font-weight="800">Back to School Project</text>
+    <text x="90" y="214" font-size="22" opacity=".9">Uniforms, bags, stationeries, pads &amp; school fees</text>
+  </g>
+  <g opacity=".26" fill="#eaf0ff">
+    <rect x="1200" y="210" width="260" height="160" rx="18"/>
+    <rect x="1235" y="245" width="190" height="20" rx="10" opacity=".8"/>
+    <rect x="1235" y="285" width="150" height="20" rx="10" opacity=".6"/>
+  </g>
+</svg>

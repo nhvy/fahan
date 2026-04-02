@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#0b1220"/>
+  <rect x="80" y="80" width="1040" height="640" rx="28" fill="url(#g)" opacity=".82"/>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#eaf0ff">
+    <text x="140" y="210" font-size="44" font-weight="800">Back to School Project</text>
+    <text x="140" y="265" font-size="22" opacity=".92">Uniforms • Bags • Stationeries • Pads • School Fees</text>
+    <text x="140" y="330" font-size="18" opacity=".9">Replace this placeholder with your project photos</text>
+  </g>
+  <g opacity=".18" fill="#eaf0ff">
+    <rect x="860" y="210" width="260" height="180" rx="20"/>
+    <rect x="900" y="430" width="220" height="220" rx="24"/>
+  </g>
+</svg>
